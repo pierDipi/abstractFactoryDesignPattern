@@ -13,11 +13,11 @@ ___
 
 ---
   * [Java example (**UI components**)](https://github.com/pierDipi/abstractFactoryDesignPattern/tree/master/abstractFactoryJava)
-    * ![UML diagram.](https://github.com/pierDipi/abstractFactoryDesignPattern/blob/master/abstractFactoryJava/uml/abstractFactoryExample.png)
+  ![UML diagram.](https://github.com/pierDipi/abstractFactoryDesignPattern/blob/master/abstractFactoryJava/uml/abstractFactoryExample.png)
 
 ---
   * [PHP example (**Books**)](https://github.com/pierDipi/abstractFactoryDesignPattern/tree/master/abstractFactoryPHP).
-    * ![UML diagram.](https://github.com/pierDipi/abstractFactoryDesignPattern/blob/master/abstractFactoryPHP/uml/abstractFactoryExample.png)
+  ![UML diagram.](https://github.com/pierDipi/abstractFactoryDesignPattern/blob/master/abstractFactoryPHP/uml/abstractFactoryExample.png)
     
 ___
 
